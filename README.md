@@ -14,6 +14,7 @@ Features to Include:
     -UPC Scan (where available) -scan upc of album to add to list
     -Image Scan- Looks for album cover image most similar to input
   -Request Lend if Friend of user
+  
 -Lend Screen
   -User can see which albums they have out on lend
   -Users can see what albums they have borrowed
