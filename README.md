@@ -1,4 +1,5 @@
 # FourTheRecord /4TheR3cord
+```
 This app is intended to be a way that collectors of Vinyl LP's can categorize and share their collections.
 
 Features to Include:
@@ -40,4 +41,4 @@ Features to Include:
   -List of albums user would like to own
   -Add similar to Collection
   -Option to move from wishlist to collection or remove from wishlist
-  
+```
