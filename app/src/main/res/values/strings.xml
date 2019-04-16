@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">FourTheRecord</string>
+    //login
+    <string name="app_name">4 THE R3CORD</string>
+    <string name="enter_button">ENTER</string>
+    <string name="email_text">Email or Username</string>
+    <string name="password_text">Password</string>
+    <string name="sign_in_error">The Email/Username or Password you entered is incorrect</string>
+    <string name="sign_up_link">Sign Up</string>
+    <string name="sign_in_link">Sign In</string>
+    <string name="validate_button">Validate</string>
+    <string name="forgot_pword_link">Forgot Password?</string>
+    <string name="validate_text">Validation Code</string>
+    <string name="reenter_pword">Re-enter Password</string>
+    <string name="pword_match_error">Passwords do not match</string>
+    <string name="email_reg_error">That email has already been registered</string>
+    <string name="uname_error">That user name has already been taken</string>
+    <string name="validation_alert">A validation code has been sent to your email</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
 </resources>
